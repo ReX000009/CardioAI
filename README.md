@@ -41,7 +41,3 @@ streamlit run app.py
 ## Built By
 ReX000009 | Biohackathon 2026
 """
-
-with open(r"C:\Users\madhi\README.md", "w", encoding="utf-8") as f:
-    f.write(readme)
-print("Done! Upload README.md to GitHub.")
