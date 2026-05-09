@@ -1,4 +1,4 @@
-readme = """# 🫀 CardioAI - Cardiovascular Risk Assessment
+ 🫀 CardioAI - Cardiovascular Risk Assessment
 
 > Biohackathon 2026 | Conversational AI for Cardiovascular Risk Prediction
 
